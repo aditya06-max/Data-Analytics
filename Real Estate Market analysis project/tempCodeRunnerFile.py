@@ -1,0 +1,1 @@
+print(highest_rate_per_sqft)
